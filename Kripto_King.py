@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 import threading
 
-API_TOKEN = '8073455529:AAFSQq2mUNxPCqWF_HZ1c2zdkLHo5pysphU'
+API_TOKEN = 'SUA_API_TOKEN_AQUI'
 bot = telebot.TeleBot(API_TOKEN)
 
 usuarios = {}
