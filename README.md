@@ -2,11 +2,11 @@
 
 **The Kripto King** é um MVP de uma corretora cripto automatizada, com sugestões baseadas em inteligência artificial, alertas por horário, carteira simulada e painel completo de investidor — tudo integrado via Telegram.
 
-> 🚀 Projeto desenvolvido com foco em experiência fluida, personalização, simulação de investimento e usabilidade para portfólio.
+>  Projeto desenvolvido com foco em experiência fluida, personalização, simulação de investimento e usabilidade para portfólio.
 
 ---
 
-## ✅ Funcionalidades
+##  Funcionalidades
 
 * **Login simulado** com e-mail e senha
 * **Escolha de corretora** (Binance, Coinbase, etc)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📆 Como rodar o projeto localmente
+##  Como rodar o projeto localmente
 
 1. Clone o repositório:
 
@@ -60,7 +60,7 @@ python bot.py
 
 ---
 
-## 🧠 Como funciona
+##  Como funciona
 
 1. O usuário inicia o bot com `/start`
 2. O bot coleta e-mail, senha e nome (login simulado)
@@ -71,7 +71,7 @@ python bot.py
 
 ---
 
-## 🛠️ Issues para desenvolvimento futuro
+##  Issues para desenvolvimento futuro
 
 ### 📌 Funcionalidade
 
@@ -81,14 +81,14 @@ python bot.py
 * [ ] Login real com autenticação de múltiplos usuários
 * [ ] Criação de painéis via Telegram WebApp
 
-### 🎨 Design e UX
+###  Design e UX
 
 * [ ] Adicionar emojis por categoria de moeda (stablecoin, memecoin, utilitária)
 * [ ] Traduzir o bot para inglês e espanhol
 * [ ] Opção de modo escuro/claro para WebApp futuro
 * [ ] Melhorar fluxo com inline buttons
 
-### 🧠 IA e Sugestões
+###  IA e Sugestões
 
 * [ ] Treinar modelo real de recomendação com base em sentimento de mercado
 * [ ] IA preditiva conectada a padrões históricos reais
