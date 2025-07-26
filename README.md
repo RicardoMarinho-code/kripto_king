@@ -1,4 +1,4 @@
-# 🪙 The Kripto King — MVP de Corretora Inteligente com IA no Telegram
+#  The Kripto King — MVP de Corretora Inteligente com IA no Telegram
 
 **The Kripto King** é um MVP de uma corretora cripto automatizada, com sugestões baseadas em inteligência artificial, alertas por horário, carteira simulada e painel completo de investidor — tudo integrado via Telegram.
 
