@@ -2,6 +2,8 @@
 
 **The Kripto King** é um MVP de uma corretora cripto automatizada, com sugestões baseadas em inteligência artificial, alertas por horário, carteira simulada e painel completo de investidor — tudo integrado via Telegram.
 
+**Este é um projeto para mostrar, na prática, como queremos a versão funcional do Kripto King**
+
 >  Projeto desenvolvido com foco em experiência fluida, personalização, simulação de investimento e usabilidade para portfólio.
 
 ---
